@@ -1,8 +1,5 @@
-# Introducción a la Informática
+# **José Israel Sánchez Balderas**
 
-## Práctica Integradora - Checkpopint 2
+## México
 
-### Israel Eduardo Porfirio Moreno
-### José Israel Sánchez Balderas
-
-<!-- Contenido de los integrantes del equipo -->
+Vivo en México :taco:
