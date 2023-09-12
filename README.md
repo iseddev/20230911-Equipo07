@@ -10,5 +10,8 @@ México 🙌
 ### José Israel Sánchez Balderas
 
 ### Cesar Avendaño
+
 ### Josué Goya
+#### Ecuador
+Ecuador :ecuador: 
 <!-- Contenido de los integrantes del equipo -->
