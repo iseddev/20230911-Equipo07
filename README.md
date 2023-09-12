@@ -10,4 +10,5 @@ México 🙌
 ### José Israel Sánchez Balderas
 
 ### Cesar Avendaño
+### Josué Goya
 <!-- Contenido de los integrantes del equipo -->
