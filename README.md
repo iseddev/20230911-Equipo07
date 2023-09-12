@@ -6,3 +6,4 @@
 ### José Israel Sánchez Balderas
 
 <!-- Contenido de los integrantes del equipo -->
+** Cesar Avendaño **
